@@ -1,0 +1,8 @@
+# Ignorer tous les fichiers
+*
+
+# Ne pas ignorer les dossiers et les sous-dossiers
+!*/
+
+# Ne pas ignorer les fichiers avec une extension
+!*.*
